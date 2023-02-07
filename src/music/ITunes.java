@@ -1,4 +1,4 @@
-package src.net;
+package src.music;
 
 public interface ITunes {
 }
